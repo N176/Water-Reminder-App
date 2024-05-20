@@ -1,0 +1,17 @@
+{
+  "mysql_data": {
+    "HOST": "localhost",
+    "USER": "root",
+    "PASSWORD": "Achal@mysql$#",
+    "NAME": "water-reminder-app"
+  },
+  "email_config": {
+    "sender_email": "udayrana428@gmail.com",
+    "sender_password": "taxfbshtjtikolgw"
+  },
+  "reminder_message": "Hi {username},\n\nIt's time to drink water and stay hydrated! Remember your daily goal.\n\nBest regards,\nYour Water Reminder App",
+  "smtp_server": {
+    "host": "smtp.gmail.com",
+    "port": 587
+  }
+}
